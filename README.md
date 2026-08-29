@@ -1,7 +1,5 @@
 # Small-Scale Classification Benchmark with Scikit-learn and Spark
 
-> Portfolio project by Dorsa Norouzi.  
-> © 2026 Dorsa Norouzi. All rights reserved.
 
 ## Project Overview
 
