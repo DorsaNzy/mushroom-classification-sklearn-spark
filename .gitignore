@@ -1,0 +1,34 @@
+# Data files
+data/*
+!data/README.md
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Spark files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Model files
+models/
+checkpoints/
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# System
+.DS_Store
