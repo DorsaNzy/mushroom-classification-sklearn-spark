@@ -142,10 +142,6 @@ pip install -r requirements.txt
 5. Update the dataset path if necessary.
 6. Run the notebook cells in order.
 
-## Author
-
-Dorsa Norouzi  
-GitHub: [DorsaNzy](https://github.com/DorsaNzy)
 
 ## Copyright
 
